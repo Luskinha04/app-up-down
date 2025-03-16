@@ -22,7 +22,6 @@ O objetivo desta atividade é desenvolver um **aplicativo Android simples** que 
 ## ⚙️ Tecnologias utilizadas
 
 - **Linguagem:** Kotlin
-- **Layout:** ConstraintLayout (Android XML)
 - **IDE:** Android Studio
 - **Plataforma:** Android SDK
 
@@ -44,7 +43,6 @@ O objetivo desta atividade é desenvolver um **aplicativo Android simples** que 
 ✔ Incrementar o contador com o botão "Aumentar".  
 ✔ Decrementar o contador com o botão "Diminuir" (com limite mínimo de 0).  
 ✔ Desativar o botão "Diminuir" quando o contador for igual a 0.  
-✔ Interface construída com **ConstraintLayout**.  
 ✔ Código escrito em **Kotlin**.
 
 ---
